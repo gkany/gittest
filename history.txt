@@ -1,0 +1,500 @@
+   70  ssh jump
+   71  ssh jump
+   72  git clone https://github.com/gkany/bitcoin.git
+   73  exit
+   74  cd bitcoin/
+   75  git remote -v
+   76  git pull
+   77  exit
+   78  ssh jump
+   79  cd 
+   80  cd .ssh/
+   81  ls
+   82  vim config
+   83  ssh jump
+   84  ssh test-fn1
+   85  ssh test-fn2
+   86  ssh test-fn3
+   87  ssh test-fn3
+   88  clear
+   89  ls
+   90  ssh test-bp1
+   91  ssh test-bp2
+   92  ssh test-bp3
+   93  cd 
+   94  cd Desktop/
+   95  scp test-bp3:
+   96  scp test-bp3:/mnt/witness_node_bin/witness_node_data_dir/log_cfg.ini ./
+   97  cd test-bp3
+   98  ssh test-bp3
+   99  ssh test-bp3
+  100  ssh test-bp4
+  101  ssh prod-monitor
+  102  ssh prod-monitor1
+  103  cd ~/.ssh/
+  104  ls
+  105  vim config
+  106  clear
+  107  ls
+  108  cd 
+  109  cd da
+  110  cd d:
+  111  ls
+  112  cd repo/
+  113  ls
+  114  clear
+  115  ls
+  116  mkdir other
+  117  cd other/
+  118  ls
+  119  git clone https://github.com/ypenghui6/cocos-mainnet.git
+  120  cd src
+  121  ls
+  122  clear
+  123  ls | grep -v ".h" | grep -v ".cpp"
+  124  ls | grep -v ".h" | grep -v ".cpp" | grep -v ".rc" | grep -v "Makefile"
+  125  ls
+  126  ls | grep -v "/"
+  127  ssh jump
+  128  ssh jump
+  129  ssh jump
+  130  ssh jump
+  131  ssh jump
+  132  ssh prod-monitor1
+  133  ssh jump
+  134  ls
+  135  ssh jump
+  136  ssh jump
+  137  ssh jump
+  138  ssh jump
+  139  ssh jump
+  140  ssh jump
+  141  ssh jump
+  142  :q
+  143  :q
+  144  clear
+  145  ssh jump
+  146  ssh jump
+  147  ssh jump
+  148  ssh test-bp1
+  149  scp test-bp1:/mnt/tests/result_2020-03-05.xls ./
+  150  ls
+  151  clear
+  152  ls
+  153  ssh jump
+  154  ssh test-bp1
+  155  scp test-bp1:/mnt/tests/ck-chain-test007_blocks_2020-03-05.xls  ./
+  156  ssh test-bp1
+  157  scp test-bp1:/mnt/tests/ck-chain-test007_blocks_2020-03-05.xls  ./
+  158  scp test-bp1:/mnt/tests/ck-chain-test007_blocks_2020-03-05.xls  ./
+  159  clear
+  160  ls
+  161  ssh jump
+  162  git pull
+  163  mkdir pygame
+  164  git add pygame/
+  165  git status .
+  166  cd ssh/
+  167  ls
+  168  git status .
+  169  git diff .
+  170  ls
+  171  cd config 
+  172  ls -lh
+  173  vim config 
+  174  ls
+  175  cd ..
+  176  ls
+  177  git status .
+  178  git commit -m "init"
+  179  git push origin master
+  180  ssh test-db1
+  181  cd ~/.ssh/
+  182  vim config
+  183  ssh prod-monitor1
+  184  ssh test-fn1
+  185  ssh test-fn2
+  186  ssh jump
+  187  ssh prod-monitor1
+  188  ssh prod-monitor1
+  189  vim ~/.ssh/config
+  190  ssh local
+  191  vim ~/.ssh/config
+  192  ssh local
+  193  ssh jump
+  194  clear
+  195  ls
+  196  ssh jump
+  197  clear
+  198  ls
+  199  ls
+  200  vim ~/.ssh/config
+  201  vim ~/.ssh/config
+  202  ssh jump
+  203  ssh jump
+  204  clear
+  205  ls
+  206  ls
+  207  clear
+  208  ls
+  209  cd 
+  210  cd .ssh/
+  211  ls
+  212  vim config
+  213  ssh jump
+  214  ssh jump
+  215  clear
+  216  ls
+  217  ssh jump
+  218  clear
+  219  ls
+  220  clear
+  221  ssh jump
+  222  ssh jump
+  223  clear
+  224  ping api.cocosbcx.net
+  225  celar
+  226  clear
+  227  ls
+  228  ssh jump
+  229  ls
+  230  ssh jump
+  231  ssh jump
+  232  ssh jump
+  233  ssh jump
+  234  ssh jump
+  235  ssh jump
+  236  ssh jump
+  237  ssh jump
+  238  cd jump
+  239  ls
+  240  ssh jump
+  241  ssh jump
+  242  ssh jump
+  243  ssh jump
+  244  ssh jump
+  245  clear
+  246  ls
+  247  ls
+  248  ssh jump
+  249  ssh jump
+  250  ssh jump
+  251  ssh jump
+  252  clear
+  253  ls
+  254  cd 
+  255  cd .ssh/
+  256  ls
+  257  vim config
+  258  ssh prod-monitor1
+  259  cd 
+  260  cd .ssh/
+  261  ls
+  262  vim config
+  263  ssh prod-db1
+  264  ls
+  265  clear
+  266  ls
+  267  cleaar
+  268  clear
+  269  ls
+  270  ssh jump
+  271  clear
+  272  ls
+  273  ssh prod-monitor1
+  274  clear
+  275  ls
+  276  cd
+  277  ls
+  278  ssh jump
+  279  exit
+  280  ssh jump
+  281  ssh jump
+  282  exit
+  283  ssh prod-db1
+  284  ssh prod-monitor1
+  285  ssh test-db1
+  286  ssh test-mysql1
+  287  ssh jump
+  288  ssh prod-monitor1
+  289  cd ~/.ssh/
+  290  ls
+  291  vim config
+  292  ssh prod-monitor1
+  293  ssh jump
+  294  vim config
+  295  ssh prod-db1
+  296  exit
+  297  ssh prod_monitor1
+  298  cd ~/.ssh/
+  299  ls
+  300  vim config
+  301  ssh prod-monitor1
+  302  exit
+  303  git status .
+  304  mkdir tests
+  305  ls
+  306  git status .
+  307  git add app_treeList.py 
+  308  git status .
+  309  git stauts .
+  310  git status .
+  311  cd graphsdkbase/
+  312  ls
+  313  mv test* ../tests/
+  314  ls
+  315  mv treeCtrl.py ../tests/
+  316  ls
+  317  mv subApp.py ../tests/
+  318  git status .
+  319  cd ..
+  320  ls
+  321  git status .
+  322  git add app2.py 
+  323  git status .
+  324  git add test-graphSDK.py treeCtrl.py
+  325  git status .
+  326  mv downlist.py tests/
+  327  ls
+  328  git status .
+  329  git branch -a
+  330  exit
+  331  ssh jump
+  332  ssh jump
+  333  git pull
+  334  cd ../
+  335  ls
+  336  cd ../mrepo/
+  337  ls
+  338  cd pwallet/
+  339  ls
+  340  git status .
+  341  cd graphsdk
+  342  ls
+  343  git diff graphene.py
+  344  clear
+  345  ls
+  346  git diff transactionbuilder.py
+  347  cd ..
+  348  git status .
+  349  git commit -m "update"
+  350  git status .
+  351  git push origin dev-treeList:dev-treeList
+  352  git status .
+  353  git add .
+  354  git status .
+  355  git reset t
+  356  git reset HEAD tests/
+  357  git status .
+  358  git reset HEAD TaskBarIcon.py
+  359  git status .
+  360  git commit -m "rebuild storage"
+  361  git push origin dev-treeList:dev-treeList
+  362  git status .
+  363  ssh jump
+  364  exit
+  365  ssh jump
+  366  ssh jump
+  367  exit
+  368  pip install youtube-dlg
+  369  pip --version
+  370  python2 --version
+  371  pip install -U wxPython
+  372  exit
+  373  ssh jump
+  374  cd ~/.ssh/
+  375  ls
+  376  vim config
+  377  ssh prod-db1
+  378  ssh jump
+  379  ssh jump
+  380  clear
+  381  ssh jump
+  382  docker ps -a
+  383  ssh jump
+  384  ssh jump
+  385  ssh dev
+  386  cd ~/.ssh/
+  387  ls
+  388  vim config
+  389  ssh local
+  390  ls
+  391  clear
+  392  ls
+  393  ssh jump
+  394  wscat -c wss://test.cocosbcx.net
+  395  wscat -c wss://test.cocosbcx.net
+  396  exit
+  397  ssh jump
+  398  cd 
+  399  cd .ssh/
+  400  ls
+  401  vim config
+  402  ssh prod-monitor1
+  403  vim config
+  404  clear
+  405  ls
+  406  ssh jump
+  407  clear
+  408  ssh jump
+  409  clear
+  410  ls
+  411  ssh jump
+  412  ssh jump
+  413  ssh jump
+  414  ssh jump
+  415  clear
+  416  ls
+  417  ls
+  418  ssh jump
+  419  ssh jump
+  420  ssh jump
+  421  ssh jump
+  422  clear
+  423  ls
+  424  clear
+  425  ls
+  426  ssh jump
+  427  ssh jump
+  428  clear
+  429  ssh jump
+  430  ssh jump
+  431  ssh jump
+  432  ssh jump
+  433  clear
+  434  ls
+  435  clear
+  436  ls
+  437  ssh jump
+  438  ssh jump
+  439  git clone https://git.cocosbcx.net/devops/block-analysis.git 
+  440  clear
+  441  ssh jump
+  442  uuuuuuuu
+  443  clear
+  444  ssh jump
+  445  ssh jump
+  446  ssh jump
+  447  ssh jump
+  448  ssh jump
+  449  ssh jump
+  450  ssh jump
+  451  ssh jump
+  452  ssh jump
+  453  git clone https://github.com/gkany/CocosBCX.git --depth=1
+  454  cd CocosBCX/
+  455  ls
+  456  git status .
+  457  cd ..
+  458  cd doc
+  459  cd CocosBCX/
+  460  cd doc
+  461  ls
+  462  git status .
+  463  git add .
+  464  ssh jump
+  465  ssh jump
+  466  cd 
+  467  cd .ssh/
+  468  ls
+  469  cat config
+  470  exit
+  471  ssh jump
+  472  ssh jump
+  473  ssh jump
+  474  ssh jump
+  475  ssh jump
+  476  ssh jump
+  477  ls
+  478  ssh jump
+  479  git clone https://github.com/tronprotocol/wallet-cli.git 
+  480  git clone https://github.com/tronprotocol/wallet-cli.git --depth=1
+  481  ls
+  482  cd wallet-cli/
+  483  ls
+  484  ./gradlew build
+  485  ./gradlew build
+  486  ssh jump
+  487  ssh jump
+  488  git clone https://git.cocosbcx.net/ecology/bcx-nftworld.git
+  489  ssh jump
+  490  ssh jump
+  491  q
+  492  ssh jump
+  493  ssh jump
+  494  ssh jump
+  495  ssh jump
+  496  ssh jump
+  497  :q
+  498  ssh jump
+  499  clear
+  500  ssh jump
+  501  git clone https://github.com/gkany/gittest.git 
+  502  ls
+  503  cd gittest/
+  504  ls
+  505  history 
+  506  clear
+  507  ls
+  508  vim main.cpp
+  509  g++ main.cpp 
+  510  vim main.cpp 
+  511  g++ main.cpp 
+  512  ./a.exe 
+  513  git add main.cpp 
+  514  git commit -m "add main.cpp file"
+  515  git push origin master
+  516  git log
+  517  vim README.md
+  518  git add README.md 
+  519  git commit -m "add README.md"
+  520  ls
+  521  git log
+  522  git push origin master
+  523  git log
+  524  touch git_rebase.md
+  525  vim git_rebase.md 
+  526  git add git_rebase.md 
+  527  git commit -m "add git rebase"
+  528  git push origin master
+  529  git log
+  530  git checkout -b rebase
+  531  git branch -a
+  532  git push origin rebase:rebase
+  533  git branch -a
+  534  git log
+  535  ls
+  536  vim .gitignore
+  537  git status .
+  538  git add .gitignore 
+  539  git status .
+  540  git commit -m "add gitignore"
+  541  git status .
+  542  git push origin
+  543  git push origin rebase
+  544  git log
+  545  git rebase -i HEAD~3
+  546  git rebase --abort
+  547  git log
+  548  git rebase -i HEAD~3
+  549  git rebase --edit-todo 
+  550  git rebase --edit-todo 
+  551  git rebase --edit-todo 
+  552  git rebase --continue 
+  553  git log
+  554  git branch -a
+  555  git checkout master 
+  556  git branch -a
+  557  git log
+  558  git checkout -b rebase2
+  559  git branch -a
+  560  git log
+  561  ls
+  562  git log
+  563  git checkout master
+  564  git checkout -d rebase2
+  565  ssh jump
+  566  git branch -a
+  567  git pull
+  568  git log
+  569  history >> history.txt
